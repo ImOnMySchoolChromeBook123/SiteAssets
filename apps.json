@@ -1,0 +1,51 @@
+[
+    {
+        "id": "oasis-studio",
+        "name": "Oasis Studio",
+        "thumbnail": "https://codehs.com/uploads/e2c0e69e0ebe8b874a1e929ba591dd59",
+        "category": "Creative",
+        "type": "link",
+        "content": "https://oasisstudio-16881766.codehs.me/index.html"
+    },
+    {
+        "id": "bomb-timer",
+        "name": "Bomb Timer",
+        "thumbnail": "https://codehs.com/uploads/400f04cce6e7d92d34bc5df6d3c12717",
+        "category": "Fun",
+        "type": "link",
+        "content": "https://buttonboom-16884862.codehs.me/index.html"
+    },
+    {
+        "id": "fake-hacker",
+        "name": "Fake Hacker",
+        "thumbnail": "https://codehs.com/uploads/ee8f33246ea0a90d02f53f6804ffe306",
+        "category": "Fun",
+        "type": "link",
+        "content": "https://hackertype-16885329.codehs.me/index.html"
+    },
+    {
+        "id": "oasis-typer",
+        "name": "Oasis Typer",
+        "thumbnail": "https://codehs.com/uploads/2f4cc444e13152baf1206b1f53d84b0a",
+        "category": "Fun",
+        "type": "link",
+        "content": "https://oasistyper-16885354.codehs.me/index.html"
+    },
+    {
+        "id": "ai-chatbot",
+        "name": "Ai Chatbot",
+        "thumbnail": "https://codehs.com/uploads/ecc2c67d69bc4fff3b7e5646824a639e",
+        "category": "Tools",
+        "type": "link",
+        "content": "https://chatbox.computer.com/chat"
+    },
+    {
+        "id": "oasis-sketching",
+        "name": "Oasis Sketching",
+        "thumbnail": "https://codehs.com/uploads/d897fea699ab5b2cf6450df2487e2375",
+        "category": "Creative",
+        "type": "link",
+        "content": "https://oasissketching-16887392.codehs.me/index.html"
+    }
+]
+
