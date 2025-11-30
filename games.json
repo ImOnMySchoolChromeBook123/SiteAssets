@@ -1,0 +1,1483 @@
+[
+    {
+        "id": "apps",
+        "name": "Apps",
+        "thumbnail": "https://codehs.com/uploads/17e4a5092668ea2e67d44a211aec5d20",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://oasisportal.codehs.me/apps"
+    },
+    {
+        "id": "12-minibattles",
+        "name": "12 MiniBattles",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/295.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://12minibattles-16543324.codehs.me/index.html"
+    },
+    {
+        "id": "adventure-drivers",
+        "name": "Adventure Drivers",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/443.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://adventuredrivers-16544984.codehs.me/index.html"
+    },
+    {
+        "id": "andys-apple-farm",
+        "name": "Andys Apple Farm",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/426.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://andysapplefarm-16544991.codehs.me/index.html"
+    },
+    {
+        "id": "angry-birds",
+        "name": "Angry Birds",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/63.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://angrybirds-16544878.codehs.me/index.html"
+    },
+    {
+        "id": "attack-hole",
+        "name": "Attack Hole",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/13.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://attackhole-16544998.codehs.me/index.html"
+    },
+    {
+        "id": "basket-bros",
+        "name": "Basket Bros",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/547.png",
+        "category": "Sports",
+        "type": "link",
+        "content": "https://baseballbros-16908521.codehs.me"
+    },
+    {
+        "id": "baseball-bros",
+        "name": "Baseball Bros",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/547.png",
+        "category": "Sports",
+        "type": "link",
+        "content": "https://baseballbros-16908521.codehs.me"
+    },
+    {
+        "id": "bad-piggies",
+        "name": "Bad Piggies",
+        "thumbnail": "https://codehs.com/uploads/13c2fd43310a906f79ecc51daa1147ce",
+        "category": "Sandbox",
+        "type": "link",
+        "content": "https://gamepage.wouterplanet.com/badpiggies"
+    },
+    {
+        "id": "bacon-may-die",
+        "name": "Bacon May Die",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/268.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://baconmaydie-16545027.codehs.me/index.html"
+    },
+    {
+        "id": "bad-monday-sim",
+        "name": "Bad Monday Sim",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/522.png",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://badmondaysim-16545030.codehs.me/index.html"
+    },
+    {
+        "id": "baldis-basics",
+        "name": "Baldis Basics",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/466.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://baldisbasics-16545000.codehs.me/index.html"
+    },
+    {
+        "id": "basket-random",
+        "name": "Basket Random",
+        "thumbnail": "https://cdn4.wouterplanet.com/covers/minigames/basket-random.png",
+        "category": "Sports",
+        "type": "link",
+        "content": "https://gamepage.wouterplanet.com/basketrandom"
+    },
+    {
+        "id": "boxing-random",
+        "name": "Boxing Random",
+        "thumbnail": "https://codehs.com/uploads/dfbe877e3170fa60f67b355ed7144edd",
+        "category": "Sports",
+        "type": "link",
+        "content": "https://gamepage.wouterplanet.com/boxingrandom"
+    },
+    {
+        "id": "volley-random",
+        "name": "Volley Random",
+        "thumbnail": "https://cdn4.wouterplanet.com/covers/minigames/voleyrandom.png",
+        "category": "Sports",
+        "type": "link",
+        "content": "https://gamepage.wouterplanet.com/volleyrandom"
+    },
+    {
+        "id": "basketball-frvr",
+        "name": "Basketball FRVR",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/28.png",
+        "category": "Sports",
+        "type": "link",
+        "content": "https://basketballfrvr-16545020.codehs.me/index.html"
+    },
+    {
+        "id": "bazooka-boy",
+        "name": "Bazooka Boy",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/29.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://bazookaboy-16545023.codehs.me/index.html"
+    },
+    {
+        "id": "bergen-truck-201x",
+        "name": "Bergen Truck 201X",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/455.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://bergentruck201x-16544096.codehs.me/index.html"
+    },
+    {
+        "id": "Beer Rush",
+        "name": "Beer Rush",
+        "thumbnail": "https://codehs.com/uploads/46923d576a9f48ea2d1c71f8a8abf109",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://gamepage.wouterplanet.com/beer-rush/"
+    },
+    {
+        "id": "bit-planes",
+        "name": "Bit Planes",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/330.png",
+        "category": "Shooter",
+        "type": "link",
+        "content": "https://bitplanes-16545210.codehs.me/index.html"
+    },
+    {
+        "id": "bottle-jump-3d",
+        "name": "Bottle Jump 3D",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/30.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://bottlejump3d-16545040.codehs.me/index.html"
+    },
+    {
+        "id": "bounce-masters",
+        "name": "Bounce Masters",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/437.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://bouncemasters-16545034.codehs.me/index.html"
+    },
+    {
+        "id": "bowmasters",
+        "name": "Bowmasters",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/0.png",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://bowmasters-16543438.codehs.me/index.html"
+    },
+    {
+        "id": "buckshot-roulette",
+        "name": "Buckshot Roulette",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/205.png",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://buckshot-roulette-16543388.codehs.me/index.html"
+    },
+    {
+        "id": "busta-loop",
+        "name": "Busta Loop",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/521.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://bustaloop-16545045.codehs.me/index.html"
+    },
+    {
+        "id": "crate-conjurer",
+        "name": "Crate Conjurer",
+        "thumbnail": "https://codehs.com/uploads/779323caeb8c9082f0c09549a6c31472",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://gamepage.wouterplanet.com/crate-conjurer/"
+    },
+    {
+        "id": "chatbot",
+        "name": "Chatbot",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/253.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://chatbot-16545057.codehs.me/index.html"
+    },
+    {
+        "id": "chess",
+        "name": "Chess",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/151.png",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://chess-16545069.codehs.me/index.html"
+    },
+    {
+        "id": "chiikawa",
+        "name": "Chiikawa",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/539.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://chiikawa-16545071.codehs.me/index.html"
+    },
+    {
+        "id": "clash-of-vikings",
+        "name": "Clash Of Vikings",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/545.png",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://clashofvikings-16545081.codehs.me/index.html"
+    },
+    {
+        "id": "cluster-rush",
+        "name": "Cluster Rush",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/81.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://clusterrush-16545086.codehs.me/index.html"
+    },
+    {
+        "id": "cookie-clicker",
+        "name": "Cookie Clicker",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/82.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://cookieclicker-16545108.codehs.me/index.html"
+    },
+    {
+        "id": "coreball",
+        "name": "Coreball",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/83.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://coreball-16545117.codehs.me/index.html"
+    },
+    {
+        "id": "crazy-chicken-3d",
+        "name": "Crazy Chicken 3D",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/255.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://crazychicken3d-16545121.codehs.me/index.html"
+    },
+    {
+        "id": "crazy-kitty-3d",
+        "name": "Crazy Kitty 3D",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/256.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://crazykitty3d-16543476.codehs.me/index.html"
+    },
+    {
+        "id": "crossy-road",
+        "name": "Crossy Road",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/24.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://crossyroad-16545125.codehs.me/index.html"
+    },
+    {
+        "id": "duck-life",
+        "name": "Duck Life",
+        "thumbnail": "https://codehs.com/uploads/114c24b53b948ed48f80d7d17dbc22be",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://www.hoodamath.com/mobile/games/duck-life/game.html?nocheckorient=1"
+    },
+    {
+        "id": "Dynamons-1",
+        "name": "Dynamons 1",
+        "thumbnail": "https://codehs.com/uploads/92ea08097ce831a2e7db60ab7f3b9d20",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://html5.gamedistribution.com/rvvASMiM/2f658de7229e49dba68786ffdc921e76/index.html?timestamp=-62135596800&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fdynamons&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2tpemkuY29tL2dhbWVzL2R5bmFtb25zIiwicGFyZW50RG9tYWluIjoia2l6aS5jb20iLCJ0b3BEb21haW4iOiJraXppLmNvbSIsImhhc0ltcHJlc3Npb24iOmZhbHNlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE4In0%253D"
+    },
+    {
+        "id": "Dynamons-2",
+        "name": "Dynamons 2",
+        "thumbnail": "https://codehs.com/uploads/e17f0d0cc0f882ae5d925789bb8ae4de",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://html5.gamedistribution.com/rvvASMiM/1fde1c67e20040dd8c53c2b75cf3d8d7/index.html?timestamp=-62135596800&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fdynamons-2&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2tpemkuY29tL2dhbWVzL2R5bmFtb25zLTIiLCJwYXJlbnREb21haW4iOiJraXppLmNvbSIsInRvcERvbWFpbiI6ImtpemkuY29tIiwiaGFzSW1wcmVzc2lvbiI6ZmFsc2UsImxvYWRlckVuYWJsZWQiOnRydWUsImhvc3QiOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSIsInZlcnNpb24iOiIxLjUuMTgifQ%253D%253D"
+    },
+    {
+        "id": "dadish",
+        "name": "Dadish",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/357.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://dadish-16545130.codehs.me/index.html"
+    },
+    {
+        "id": "dadish-2",
+        "name": "Dadish 2",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/355.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://dadish2-16568386.codehs.me/index.html"
+    },
+    {
+        "id": "dadish-3",
+        "name": "Dadish 3",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/356.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://dadish3-16568388.codehs.me/index.html"
+    },
+    {
+        "id": "dalgona",
+        "name": "Dalgona",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/565.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://dalgona-16545132.codehs.me/index.html"
+    },
+    {
+        "id": "dead-plate",
+        "name": "Dead Plate",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/462.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://deadplate-16545135.codehs.me/index.html"
+    },
+    {
+        "id": "dig-deep",
+        "name": "Dig Deep",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/32.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://digdeep-16545140.codehs.me/index.html"
+    },
+    {
+        "id": "do-not-take-this-cat-home",
+        "name": "Do Not Take This Cat Home",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/193.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://donottakethiscathome-16545220.codehs.me/index.html"
+    },
+    {
+        "id": "doge-miner",
+        "name": "Doge Miner",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/511.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://dogeminer-16545225.codehs.me/index.html"
+    },
+    {
+        "id": "doom",
+        "name": "Doom",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/203.png",
+        "category": "Shooter",
+        "type": "link",
+        "content": "https://doom-16568900.codehs.me/index.html"
+    },
+    {
+        "id": "doom-2",
+        "name": "Doom 2",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/602.png",
+        "category": "Shooter",
+        "type": "link",
+        "content": "https://doom2-16543280.codehs.me/index.html"
+    },
+    {
+        "id": "drift-boss",
+        "name": "Drift Boss",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/276.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://gamepage.wouterplanet.com/driftboss"
+    },
+    {
+        "id": "drive-mad",
+        "name": "Drive Mad",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/35.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://drivemad-16544007.codehs.me/index.html"
+    },
+    {
+        "id": "driven-wild",
+        "name": "Driven Wild",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/43.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://drivenwild-16545155.codehs.me/index.html"
+    },
+    {
+        "id": "elastic-man",
+        "name": "Elastic Man",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/197.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://elasticman-16545183.codehs.me/index.html"
+    },
+    {
+        "id": "endoparasitic",
+        "name": "Endoparasitic",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/286.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://endoparasitic-16545164.codehs.me/index.html"
+    },
+    {
+        "id": "evil-glitch",
+        "name": "Evil Glitch",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/277.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://evilglitch-16545194.codehs.me/index.html"
+    },
+    {
+        "id": "Excitebike 64",
+        "name": "Excitebike 64",
+        "thumbnail": "https://codehs.com/uploads/d1e4c6bf5dfd7741bf87dc0fbfc5b2d4",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://excitebike-64-16573861.codehs.me/index.html"
+    },
+    {
+        "id": "fruit-ninja",
+        "name": "Fruit Ninja",
+        "thumbnail": "https://codehs.com/uploads/dbb3c70d032778ec429412a92aff3718",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://cdn-orange.wouterplanet.com/fruitninja"
+    },
+    {
+        "id": "f1-racing",
+        "name": "F1 Racing",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/579.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://f1-racing-16568587.codehs.me/index.html"
+    },
+    {
+        "id": "five-nights-at-candys",
+        "name": "Five Nights At Candys",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/503.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://fivenightsatcandys-16568374.codehs.me/index.html"
+    },
+    {
+        "id": "five-nights-at-candys-2",
+        "name": "Five Nights At Candys 2",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/504.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://fivenightsatcandys2-16568376.codehs.me/index.html"
+    },
+    {
+        "id": "fnaf",
+        "name": "Fnaf",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/38.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://fnaf-16543508.codehs.me/index.html"
+    },
+    {
+        "id": "fnaf-2",
+        "name": "Fnaf 2",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/39.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://fnaf2-16568356.codehs.me/index.html"
+    },
+    {
+        "id": "fnaf-3",
+        "name": "Fnaf 3",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/40.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://fnaf3-16568360.codehs.me/index.html"
+    },
+    {
+        "id": "fnaf-4",
+        "name": "Fnaf 4",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/41.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://fnaf4-16568363.codehs.me/index.html"
+    },
+    {
+        "id": "fnf",
+        "name": "Friday Night Funkin",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/8.png",
+        "category": "Rhythm",
+        "type": "link",
+        "content": "https://fnf-16543535.codehs.me/index.html"
+    },
+    {
+        "id": "friday-night-funkin-vs-tricky",
+        "name": "Friday Night Funkin Vs Tricky",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/481.png",
+        "category": "Rhythm",
+        "type": "link",
+        "content": "https://fridaynightfunkinvstricky-16545230.codehs.me/index.html"
+    },
+    {
+        "id": "generic-fighter-maybe",
+        "name": "Generic Fighter Maybe",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/519.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://genericfightermaybe-16545232.codehs.me/index.html"
+    },
+    {
+        "id": "getting-over-it",
+        "name": "Getting Over It",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/557.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://gettingoverit-16544623.codehs.me/index.html"
+    },
+    {
+        "id": "gobble",
+        "name": "Gobble",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/37.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://gobble-16545234.codehs.me/index.html"
+    },
+    {
+        "id": "google-baseball",
+        "name": "Google Baseball",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/257.png",
+        "category": "Sports",
+        "type": "link",
+        "content": "https://googlebaseball-16544149.codehs.me/index.html"
+    },
+    {
+        "id": "google-feud",
+        "name": "Google Feud",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/361.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://googlefeud-16545239.codehs.me/index.html"
+    },
+    {
+        "id": "granny",
+        "name": "Granny",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/90.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://granny-16543236.codehs.me/index.html"
+    },
+    {
+        "id": "granny-2",
+        "name": "Granny 2",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/125.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://granny2-16543552.codehs.me/index.html"
+    },
+    {
+        "id": "half-life",
+        "name": "Half-Life",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/262.png",
+        "category": "Shooter",
+        "type": "link",
+        "content": "https://halflife-16543564.codehs.me/index.html"
+    },
+    {
+        "id": "highway-racer",
+        "name": "Highway Racer",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/567.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://highwayracer-16545256.codehs.me/index.html"
+    },
+    {
+        "id": "highway-racer-2-remastered",
+        "name": "Highway Racer 2 Remastered",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/568.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://highwayracer2remastered-16545274.codehs.me/index.html"
+    },
+    {
+        "id": "hill-climb-racing-lite",
+        "name": "Hill Climb Racing Lite",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/157.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://hillclimbracinglite-16545285.codehs.me/index.html"
+    },
+    {
+        "id": "hotline-miami",
+        "name": "Hotline Miami",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/217.png",
+        "category": "Shooter",
+        "type": "link",
+        "content": "https://hotlinemiami-16544114.codehs.me/index.html"
+    },
+    {
+        "id": "hula-hoop-race",
+        "name": "Hula Hoop Race",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/569.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://hulahooprace-16545299.codehs.me/index.html"
+    },
+    {
+        "id": "human-expenditure-program",
+        "name": "Human Expenditure Program",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/482.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://codehs.com/sandbox/verhechool/humanexpenditureprogram"
+    },
+    {
+        "id": "hypper-sandbox",
+        "name": "Hypper Sandbox",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/551.png",
+        "category": "Sandbox",
+        "type": "link",
+        "content": "https://hyppersandbox-16545305.codehs.me/index.html"
+    },
+    {
+        "id": "ice-dodo",
+        "name": "Ice Dodo",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/5.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://icedodo-16545311.codehs.me/index.html"
+    },
+    {
+        "id": "idle-breakout",
+        "name": "Idle Breakout",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/362.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://idlebreakout-16545314.codehs.me/index.html"
+    },
+    {
+        "id": "idle-dice",
+        "name": "Idle Dice",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/294.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://idledice-16545316.codehs.me/index.html"
+    },
+    {
+        "id": "idle-mining-empire",
+        "name": "Idle Mining Empire",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/364.png",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://idleminingempire-16545318.codehs.me/index.html"
+    },
+    {
+        "id": "jelly-drift",
+        "name": "Jelly Drift",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/543.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://jellydrift-16543600.codehs.me/index.html"
+    },
+    {
+        "id": "jelly-mario",
+        "name": "Jelly Mario",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/315.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://jellymario-16545321.codehs.me/index.html"
+    },
+    {
+        "id": "jelly-resturaunt",
+        "name": "Jelly Resturaunt",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/570.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://jellyresturaunt-16545323.codehs.me/index.html"
+    },
+    {
+        "id": "jetpack-joyride",
+        "name": "Jetpack Joyride",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/7.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://jetpackjoyride-16545325.codehs.me/index.html"
+    },
+    {
+        "id": "johnny-trigger",
+        "name": "Johnny Trigger",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/93.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://johnnytrigger-16545327.codehs.me/index.html"
+    },
+    {
+        "id": "kindergarten",
+        "name": "Kindergarten",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/445.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://kindergarten-16543672.codehs.me/index.html"
+    },
+    {
+        "id": "kindergarten-2",
+        "name": "Kindergarten 2",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/446.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://kindergarten2-16544979.codehs.me/index.html"
+    },
+    {
+        "id": "kindergarten-3",
+        "name": "Kindergarten 3",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/501.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://kindergarten3-16545295.codehs.me/index.html"
+    },
+    {
+        "id": "kitchen-bazar",
+        "name": "Kitchen Bazar",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/325.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://kitchenbazar-16545329.codehs.me/index.html"
+    },
+    {
+        "id": "kitty-toy",
+        "name": "Kitty Toy",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/441.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://kittytoy-16545334.codehs.me/index.html"
+    },
+    {
+        "id": "layers-roll",
+        "name": "Layers Roll",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/571.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://layersroll-16545339.codehs.me/index.html"
+    },
+    {
+        "id": "little-runmo",
+        "name": "Little Runmo",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/302.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://littlerunmo-16545340.codehs.me/index.html"
+    },
+    {
+        "id": "magic-tiles-3",
+        "name": "Magic Tiles 3",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/17.png",
+        "category": "Rhythm",
+        "type": "link",
+        "content": "https://magictiles3-16545346.codehs.me/index.html"
+    },
+    {
+        "id": "Miami Crime Simulator",
+        "name": "Miami Crime Simulator",
+        "thumbnail": "https://codehs.com/uploads/0e6a18b73a927375d887c2ddddfeef94",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://html5.gamedistribution.com/rvvASMiM/1e4fd1ecada740c29e31fafc39aa8adc/index.html?timestamp=-62135596800&amp;countryCode=en&amp;siteLocale=en&amp;locale=en&amp;gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fmiami-crime-simulator-3d&amp;gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2tpemkuY29tL2dhbWVzL21pYW1pLWNyaW1lLXNpbXVsYXRvci0zZCIsInBhcmVudERvbWFpbiI6ImtpemkuY29tIiwidG9wRG9tYWluIjoia2l6aS5jb20iLCJoYXNJbXByZXNzaW9uIjp0cnVlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE4In0%253D"
+    },
+    {
+        "id": "mario-kart-n64",
+        "name": "Mario Kart N64",
+        "thumbnail": "https://codehs.com/uploads/ac272eaf1006d55c7a2265c5588aaf82",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://n64kart-16573770.codehs.me/index.html"
+    },
+    {
+        "id": "metal-gear-solid",
+        "name": "Metal Gear Solid",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/599.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://metalgearsolid-16545370.codehs.me/index.html"
+    },
+    {
+        "id": "minecraft-1-12-2",
+        "name": "Minecraft 1.12.2",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/182.png",
+        "category": "Sandbox",
+        "type": "link",
+        "content": "https://minecraft1122-16543848.codehs.me/index.html"
+    },
+    {
+        "id": "minesweeper-mania",
+        "name": "Minesweeper Mania",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/313.png",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://minesweepermania-16545377.codehs.me/index.html"
+    },
+    {
+        "id": "minesweeper-plus",
+        "name": "Minesweeper Plus",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/604.png",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://minesweeperplus-16545380.codehs.me/index.html"
+    },
+    {
+        "id": "mob-control-html5",
+        "name": "Mob Control Html5",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/22.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://mobcontrolhtml5-16545385.codehs.me/index.html"
+    },
+    {
+        "id": "monkey-mart",
+        "name": "Monkey Mart",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/57.png",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://monkeymart-16545392.codehs.me/index.html"
+    },
+    {
+        "id": "monster-tracks",
+        "name": "Monster Tracks",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/36.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://monstertracks-16545395.codehs.me/index.html"
+    },
+    {
+        "id": "motox3m-pool-party",
+        "name": "Moto X3M Pool Party",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/124.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://motox3mpoolparty-16544181.codehs.me/index.html"
+    },
+    {
+        "id": "mowing-sim",
+        "name": "Mowing Sim",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/584-a.png",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://mowing-sim-16568564.codehs.me/index.html"
+    },
+    {
+        "id": "my-teardrop",
+        "name": "My Teardrop",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/540.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://myteardrop-16545397.codehs.me/index.html"
+    },
+    {
+        "id": "motorbike-simulator",
+        "name": "Motorbike Simulator",
+        "thumbnail": "https://codehs.com/uploads/2d91e85c576d249fa083c6ac45365d7b",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://html5.gamedistribution.com/rvvASMiM/f7fcef09c2ca4c7286fec95aef502e31/index.html?timestamp=-62135596800&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fmotorbike-simulator&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2tpemkuY29tL2dhbWVzL21vdG9yYmlrZS1zaW11bGF0b3IiLCJwYXJlbnREb21haW4iOiJraXppLmNvbSIsInRvcERvbWFpbiI6ImtpemkuY29tIiwiaGFzSW1wcmVzc2lvbiI6ZmFsc2UsImxvYWRlckVuYWJsZWQiOnRydWUsImhvc3QiOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSIsInZlcnNpb24iOiIxLjUuMTgifQ%253D%253D"
+    },
+    {
+        "id": "n-gon",
+        "name": "N Gon",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/180.png",
+        "category": "Shooter",
+        "type": "link",
+        "content": "https://n-gon-16545400.codehs.me/index.html"
+    },
+    {
+        "id": "nba-hangtime-n64",
+        "name": "Nba Hangtime N64",
+        "thumbnail": "https://codehs.com/uploads/b07983c4d9496cb9cd711fcf535d3414",
+        "category": "Sports",
+        "type": "link",
+        "content": "https://nba-hangtime-n64-16575006.codehs.me/index.html"
+    },
+    {
+        "id": "ninja-vs-evil-corp",
+        "name": "Ninja Vs Evil Corp",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/101.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://ninjavsevilcorp-16545406.codehs.me/index.html"
+    },
+    {
+        "id": "nubbys-number-factory",
+        "name": "Nubbys Number Factory",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/517.png",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://nubbysnumberfactory-16545410.codehs.me/index.html"
+    },
+    {
+        "id": "oshi-oshi-punch",
+        "name": "Oshi Oshi Punch",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/516.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://oshioshipunch-16545413.codehs.me/index.html"
+    },
+    {
+        "id": "ovo",
+        "name": "Ovo",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/1.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://www.hoodamath.com/mobile/games/ovo/game.html?nocheckorient=1"
+    },
+    {
+        "id": "ovo-3",
+        "name": "Ovo 3",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/3.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://ovo3-16545415.codehs.me/index.html"
+    },
+    {
+        "id": "papas-pizzeria",
+        "name": "Papas Pizzeria",
+        "thumbnail": "https://codehs.com/uploads/82a3a1055637a5e0be826393b0bf3148",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://gamepage.wouterplanet.com/papaspizzeria"
+    },
+    {
+        "id": "pacman-super-fast",
+        "name": "Pacman Super Fast",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/515.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://pacmansuperfast-16545427.codehs.me/index.html"
+    },
+    {
+        "id": "pacman-world",
+        "name": "Pacman World",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/592.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://pacmanworld-16545425.codehs.me/index.html"
+    },
+    {
+        "id": "paper-io-2",
+        "name": "Paper Io 2",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/102.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://paperio2-16545430.codehs.me/index.html"
+    },
+    {
+        "id": "people-playground",
+        "name": "People Playground",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/194.png",
+        "category": "Sandbox",
+        "type": "link",
+        "content": "https://peopleplayground-16545433.codehs.me/index.html"
+    },
+    {
+        "id": "plinko",
+        "name": "Plinko",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/544.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://plinko-16545442.codehs.me/index.html"
+    },
+    {
+        "id": "pokeyball",
+        "name": "Pokeyball",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/326.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://pokeyball-16568257.codehs.me/index.html"
+    },
+    {
+        "id": "pokemon-emerald",
+        "name": "Pokemon Emerald",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/506.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://pokemonemerald-16545454.codehs.me/index.html"
+    },
+    {
+        "id": "pokemon-red",
+        "name": "Pokemon Red",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/505.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://pokemonred-16545458.codehs.me/index.html"
+    },
+    {
+        "id": "portaboy",
+        "name": "Portaboy",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/514.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://portaboy-16568258.codehs.me/index.html"
+    },
+    {
+        "id": "pottery-master",
+        "name": "Pottery Master",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/574.png",
+        "category": "Sandbox",
+        "type": "link",
+        "content": "https://potterymaster-16545542.codehs.me/index.html"
+    },
+    {
+        "id": "rainbowobby",
+        "name": "Rainbowobby",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/307.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://rainbowobby-16568269.codehs.me/index.html"
+    },
+    {
+        "id": "recoil",
+        "name": "Recoil",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/546.png",
+        "category": "Shooter",
+        "type": "link",
+        "content": "https://recoil-16568278.codehs.me/index.html"
+    },
+    {
+        "id": "retrobowl",
+        "name": "Retrobowl",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/33.png",
+        "category": "Sports",
+        "type": "link",
+        "content": "https://retrobowl-16568286.codehs.me/index.html"
+    },
+    {
+        "id": "retrobowlcollege",
+        "name": "Retrobowlcollege",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/34.png",
+        "category": "Sports",
+        "type": "link",
+        "content": "https://retrobowlcollege-16568287.codehs.me/index.html"
+    },
+    {
+        "id": "rollyvortex",
+        "name": "Rollyvortex",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/208.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://rollyvortex-16568399.codehs.me/index.html"
+    },
+    {
+        "id": "run-2",
+        "name": "Run 2",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/176.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://www.hoodamath.com/games/run2.html#gsc.tab=0"
+    },
+    {
+        "id": "run-3",
+        "name": "Run 3",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/177.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://run3-16568401.codehs.me/index.html"
+    },
+    {
+        "id": "stickman-swing",
+        "name": "Stickman Swing",
+        "thumbnail": "https://codehs.com/uploads/7a6b6c4e81e3f61e26ec5b2dd4acab9b",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://gamepage.wouterplanet.com/stickman-hook"
+    },
+    {
+        "id": "super-meat-boy",
+        "name": "Super Meat Boy",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/aa/SuperMeatBoy_cover.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://gamepage.wouterplanet.com/supermeatboy"
+    },
+    {
+        "id": "shark-io",
+        "name": "Shark IO",
+        "thumbnail": "https://codehs.com/uploads/0dadd4e91acdde1f300ef6b42f3786b3",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://gamepage.wouterplanet.com/sharkio"
+    },
+    {
+        "id": "sandtris",
+        "name": "Sandtris",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/311.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://sandtris-16568411.codehs.me/index.html"
+    },
+    {
+        "id": "shapezio",
+        "name": "Shapezio",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/595.png",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://shapezio-16568414.codehs.me/index.html"
+    },
+    {
+        "id": "shipo-io",
+        "name": "Shipo Io",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/306.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://shipo-io-16568417.codehs.me/index.html"
+    },
+    {
+        "id": "skyriders",
+        "name": "Skyriders",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/576.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://skyriders-16568425.codehs.me/index.html"
+    },
+    {
+        "id": "slice-it-all",
+        "name": "Slice It All",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/128.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://slice-it-all-16568427.codehs.me/index.html"
+    },
+    {
+        "id": "slime-io",
+        "name": "Slime Io",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/327.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://slime-io-16568430.codehs.me/index.html"
+    },
+    {
+        "id": "slime-rancher",
+        "name": "Slime Rancher",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/591.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://slime-rancher-16568429.codehs.me/index.html"
+    },
+    {
+        "id": "slowroads",
+        "name": "Slowroads",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/369.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://slowroads-16568433.codehs.me/index.html"
+    },
+    {
+        "id": "snow-rider-3d",
+        "name": "Snow Rider 3d",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/119.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://www.hoodamath.com/mobile/games/snow-rider-3d/game.html?nocheckorient=1"
+    },
+    {
+        "id": "sonic-2",
+        "name": "Sonic 2",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/549.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://sonic2-16568473.codehs.me/index.html"
+    },
+    {
+        "id": "sonicexe",
+        "name": "Sonicexe",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/598.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://sonicexe-16568479.codehs.me/index.html"
+    },
+    {
+        "id": "sonicexeoriginal",
+        "name": "Sonicexeoriginal",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/606.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://sonicexeoriginal-16568488.codehs.me/index.html"
+    },
+    {
+        "id": "soundboard",
+        "name": "Soundboard",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/179.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://soundboard-16544819.codehs.me/index.html"
+    },
+    {
+        "id": "space-waves",
+        "name": "Space Waves",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/117.png",
+        "category": "Shooter",
+        "type": "link",
+        "content": "https://space-waves-16568490.codehs.me/index.html"
+    },
+    {
+        "id": "spacebar-clicker",
+        "name": "Spacebar Clicker",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/473.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://spacebar-clicker-16568494.codehs.me/index.html"
+    },
+    {
+        "id": "spiral-roll",
+        "name": "Spiral Roll",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/349.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://spiral-roll-16568497.codehs.me/index.html"
+    },
+    {
+        "id": "spongebob-landho",
+        "name": "Spongebob Landho",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/526.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://spongebob-landho-16568512.codehs.me/index.html"
+    },
+    {
+        "id": "spongebob-run",
+        "name": "Spongebob Run",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/527.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://spongebob-run-16568517.codehs.me/index.html"
+    },
+    {
+        "id": "spongebob-sponge-stacker",
+        "name": "Spongebob Sponge Stacker",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/529.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://spongebob-sponge-stacker-16568515.codehs.me/index.html"
+    },
+    {
+        "id": "sprunki",
+        "name": "Sprunki",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/9.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://sprunki-16568520.codehs.me/index.html"
+    },
+    {
+        "id": "steal-a-brainrot",
+        "name": "Steal A Brainrot",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/479.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://steal-a-brainrot-16568525.codehs.me/index.html"
+    },
+    {
+        "id": "stickman-climb",
+        "name": "Stickman Climb",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/373.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://stickman-climb-16568548.codehs.me/index.html"
+    },
+    {
+        "id": "subway-surfers",
+        "name": "Subway Surfers",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/132.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://cdn-ninove.wouterplanet.com/winter-holiday/winterholiday.html"
+    },
+    {
+        "id": "super-mario-bros",
+        "name": "Super Mario Bros",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/508.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://super-mario-bros-16568586.codehs.me/index.html"
+    },
+    {
+        "id": "supermario64",
+        "name": "Supermario64",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/588.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://supermario64-16568582.codehs.me/index.html"
+    },
+    {
+        "id": "swordfight",
+        "name": "Swordfight",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/513.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://swordfight-16568593.codehs.me/index.html"
+    },
+    {
+        "id": "2048",
+        "name": "2048",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/114.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://www.hoodamath.com/mobile/games/2048-game/game.html?nocheckorient=1"
+    },
+    {
+        "id": "temple-run-2",
+        "name": "Temple Run 2",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/10.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://temple-run2-16568598.codehs.me/index.html"
+    },
+    {
+        "id": "the-deadseat",
+        "name": "The Deadseat",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/458.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://the-deadseat-16568614.codehs.me/index.html"
+    },
+    {
+        "id": "the-man-from-the-window",
+        "name": "The Man From The Window",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/459.png",
+        "category": "Horror",
+        "type": "link",
+        "content": "https://themanfromthewindow-16544905.codehs.me/index.html"
+    },
+    {
+        "id": "the-oregon-trail",
+        "name": "The Oregon Trail",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/586.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://the-oregon-trail-16568622.codehs.me/index.html"
+    },
+    {
+        "id": "they-are-coming",
+        "name": "They Are Coming",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/348.png",
+        "category": "Shooter",
+        "type": "link",
+        "content": "https://they-are-coming-16568624.codehs.me/index.html"
+    },
+    {
+        "id": "time-shooter-3",
+        "name": "Time Shooter 3",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/201.png",
+        "category": "Shooter",
+        "type": "link",
+        "content": "https://time-shooter3-16568630.codehs.me/index.html"
+    },
+    {
+        "id": "tomodachi-collection",
+        "name": "Tomodachi Collection",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/510.png",
+        "category": "Sandbox",
+        "type": "link",
+        "content": "https://tomodachi-collection-16568634.codehs.me/index.html"
+    },
+    {
+        "id": "traffic-rider",
+        "name": "Traffic Rider",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/580.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://traffic-rider-16568645.codehs.me/index.html"
+    },
+    {
+        "id": "trivia-crack",
+        "name": "Trivia Crack",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/163.png",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://trivia-crack-16568654.codehs.me/index.html"
+    },
+    {
+        "id": "undertale",
+        "name": "Undertale",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/456.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://undertale-16568667.codehs.me/index.html"
+    },
+    {
+        "id": "vex-x3m-2",
+        "name": "Vex X3m 2",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/56.png",
+        "category": "Racing",
+        "type": "link",
+        "content": "https://vex-x3m-2-16568719.codehs.me/index.html"
+    },
+    {
+        "id": "water-color-sort",
+        "name": "Water Color Sort",
+        "thumbnail": "https://codehs.com/uploads/b5d61ff35c4388c6e3971189a2015161",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://html5.gamedistribution.com/rvvASMiM/cbf5f19fb8584e1795518d0f8c5becb1/index.html?timestamp=-62135596800&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fwater-color-sort&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2tpemkuY29tL2dhbWVzL3dhdGVyLWNvbG9yLXNvcnQiLCJwYXJlbnREb21haW4iOiJraXppLmNvbSIsInRvcERvbWFpbiI6ImtpemkuY29tIiwiaGFzSW1wcmVzc2lvbiI6ZmFsc2UsImxvYWRlckVuYWJsZWQiOnRydWUsImhvc3QiOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSIsInZlcnNpb24iOiIxLjUuMTgifQ%253D%253D"
+    },
+    {
+        "id": "wordle",
+        "name": "Wordle",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/112.png",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://www.hoodamath.com/mobile/games/guess-word/game.html?nocheckorient=1"
+    },
+    {
+        "id": "war-the-knights",
+        "name": "War The Knights",
+        "thumbnail": "https://codehs.com/uploads/c2d8f1f446d107d223116965c6fd98ac",
+        "category": "Strategy",
+        "type": "link",
+        "content": "https://wartheknights-16543347.codehs.me/index.html"
+    },
+    {
+        "id": "waterworks",
+        "name": "Waterworks",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/594.png",
+        "category": "Arcade",
+        "type": "link",
+        "content": "https://waterworks-16568723.codehs.me/index.html"
+    },
+    {
+        "id": "webfishing",
+        "name": "Webfishing",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/423.png",
+        "category": "Sports",
+        "type": "link",
+        "content": "https://webfishing-16568724.codehs.me/index.html"
+    },
+    {
+        "id": "yume-nikki",
+        "name": "Yume Nikki",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/433.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://yume-nikki-16568732.codehs.me/index.html"
+    },
+    {
+        "id": "zelda-majoras-mask",
+        "name": "Zelda Majoras Mask",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/612.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://zelda-majoras-mask-16568617.codehs.me/index.html"
+    },
+    {
+        "id": "zelda-ocarina-of-time",
+        "name": "Zelda Ocarina Of Time",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/611.png",
+        "category": "Adventure",
+        "type": "link",
+        "content": "https://zelda-ocarina-of-time-16568620.codehs.me/index.html"
+    }
+]
+
